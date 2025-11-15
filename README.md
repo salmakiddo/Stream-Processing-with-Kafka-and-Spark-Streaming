@@ -93,8 +93,10 @@ python performance_test.py
 # Select test: 1 (Burst), 2 (High Volume), 3 (Stress), 4 (Sustained), 5 (Custom)
 ```
 
-## Architecture
-![Architecture Diagram](Stream-Processing-with-Kafka-and-Spark-Streaming/iot_streaming_architecture.png)
+# Architecture
+
+![Architecture Diagram](iot_streaming_architecture.png)
+
 **Components:**
 - **Kafka Topic**: `iot-sensors` with 3 partitions
 - **Spark Streaming**: 30s windows, 10s slides, 5s watermark
