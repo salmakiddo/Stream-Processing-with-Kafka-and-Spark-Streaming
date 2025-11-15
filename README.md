@@ -184,5 +184,5 @@ curl http://localhost:5000/api/alerts
 - **Optimal Config**: 18 threads = 6 threads per partition for best performance
 
 ## Author
-Name: Salma Elsayed Khalil 
-SID: 900213357
+- **Name**: Salma Elsayed Khalil
+- **SID**: 900213357
